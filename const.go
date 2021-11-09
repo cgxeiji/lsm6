@@ -74,7 +74,8 @@ const (
 
 // Device constants
 const (
-	Addr = 0x6B
+	Addr  uint16 = 0x6B
+	Addr2        = 0x6A
 )
 
 const (
